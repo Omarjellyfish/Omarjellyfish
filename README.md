@@ -1,80 +1,22 @@
 <div align="center">
-  <img src="[https://media.tenor.com/xum_7kKRh6QAAAAd/jellyfish.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiZm5odmVubWlxNWdlMXppbmNiamgwczVlOXpxY2wyYXZ5azNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ErMGpYXUiuek/giphy.gif)" alt="Pink Jellyfish" width="100%" style="border-radius: 15px; max-height: 400px; object-fit: cover;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiZm5odmVubWlxNWdlMXppbmNiamgwczVlOXpxY2wyYXZ5azNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ErMGpYXUiuek/giphy.gif" alt="Jellyfish GIF" width="100%" style="border-radius: 15px; max-height: 350px; object-fit: cover;" />
   <h1>Omar - Game Developer</h1>
-  <p><i>Drifting through the depths of game design and production</i></p>
+  <p><i>Drifting through the depths of game design and game production</i></p>
 </div>
 
-<br/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/omar-kandil-jf/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-3b1c7a?style=for-the-badge&logo=linkedin&logoColor=4cc9f0" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/jellyfish_game_studios/?hl=en" target="_blank"><img src="https://img.shields.io/badge/Instagram-7209b7?style=for-the-badge&logo=instagram&logoColor=f72585" alt="Instagram" /></a>
+  <a href="https://omarjellyfish.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-f72585?style=for-the-badge&logo=itch.io&logoColor=140d36" alt="Itch.io" /></a>
+</div>
 
-### 🌐 Connect With Me
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/omar-kandil-jf/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.instagram.com/jellyfish_game_studios/?hl=en" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://omarjellyfish.itch.io/" target="_blank">
-        <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<br/>
+---
 
 ### About Me
-I'm a **Game Developer** immersed in game design, gameplay programming, networking, and creating atmospheric experiences (including VR). My ultimate goal is to launch my own studio.
+I'm a **Game Developer** drifting through the depths of game design, gameplay programming, networking, and creating atmospheric experiences (including VR). My ultimate goal is to launch my own studio.
 
 - Currently creating waves in exciting game projects and expanding my portfolio.
-- Notable projects include: *Jellyfish Horror Game*, *Blind Leap*, *VR Shooter*, and custom multiplayer systems with Netcode for GameObjects (NGO) & Steamworks.
-- How to reach me: Dive into my repositories or connect with me!
-
----
-
-### 💻 Core Languages
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=dark&perline=3" />
-</div>
-
-<br/>
-
-### 🛠️ Game Dev & Additions
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <b>Game Engines & Tools</b><br><br>
-      <img src="https://skillicons.dev/icons?i=unity,unreal,git,github&theme=dark&perline=4" />
-    </td>
-    <td align="center" width="50%">
-      <b>Web & Backend Additions</b><br><br>
-      <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb&theme=dark&perline=5" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🪼 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omarjellyfish&show_icons=true&bg_color=0D1117&title_color=00e5ff&text_color=c7d2fe&icon_color=d946ef&border_color=312e81" alt="Omar's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarjellyfish&background=0D1117&stroke=312e81&ring=d946ef&fire=00e5ff&currStreakNum=c7d2fe&currStreakLabel=a5b4fc&sideNums=c7d2fe&sideLabels=a5b4fc&dates=818cf8" alt="Omar's GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarjellyfish&layout=compact&hide=python,jupyter%20notebook,html,css&bg_color=0D1117&title_color=00e5ff&text_color=c7d2fe&icon_color=d946ef&border_color=312e81" alt="Top Languages" />
-</div>
+- How to reach me: Dive into my repositories or connect with me via the links above!
 
 ---
 
@@ -84,8 +26,41 @@ I'm a **Game Developer** immersed in game design, gameplay programming, networki
 - **Blind Leap:** A unique gameplay experience.
 - **Souls-like level design:** Attempted to create a prototype for a souls like level with unique mechanics.
 
+---
+
+### Tech Stack & Tools
+
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; background-color: transparent;">
+      <b>Core Languages</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=cpp,cs,js&theme=dark&perline=3" />
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <b>Game Engines & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=unity,unreal,git,github&theme=dark&perline=4" />
+    </td>
+    <td align="center" style="border: none; background-color: transparent;">
+      <b>Web Additions</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,mongodb&theme=dark&perline=5" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Omarjellyfish&show_icons=true&bg_color=140d36&title_color=f72585&text_color=4cc9f0&icon_color=7209b7&border_color=f72585" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omarjellyfish&background=140d36&stroke=f72585&ring=7209b7&fire=f72585&currStreakNum=4cc9f0&currStreakLabel=4cc9f0&sideNums=4cc9f0&sideLabels=4cc9f0&dates=4cc9f0" alt="Omar's GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omarjellyfish&layout=compact&hide=python,jupyter%20notebook,html,css&bg_color=140d36&title_color=f72585&text_color=4cc9f0&icon_color=7209b7&border_color=f72585" alt="Top Languages" />
+</div>
+
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0410,240046,3c096c,00e5ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=140d36&height=100&section=footer" />
 </div>
