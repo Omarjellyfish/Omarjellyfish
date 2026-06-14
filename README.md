@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/xum_7kKRh6QAAAAd/jellyfish.gif" alt="Pink Jellyfish" width="100%" style="border-radius: 15px; max-height: 400px; object-fit: cover;" />
+  <img src="[https://media.tenor.com/xum_7kKRh6QAAAAd/jellyfish.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiZm5odmVubWlxNWdlMXppbmNiamgwczVlOXpxY2wyYXZ5azNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ErMGpYXUiuek/giphy.gif)" alt="Pink Jellyfish" width="100%" style="border-radius: 15px; max-height: 400px; object-fit: cover;" />
   <h1>Omar - Game Developer</h1>
   <p><i>Drifting through the depths of game design and production</i></p>
 </div>
