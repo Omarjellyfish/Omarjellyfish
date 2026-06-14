@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiZm5odmVubWlxNWdlMXppbmNiamgwczVlOXpxY2wyYXZ5azNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ErMGpYXUiuek/giphy.gif" alt="Jellyfish GIF" width="100%" style="border-radius: 15px; max-height: 350px; object-fit: cover;" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNiZm5odmVubWlxNWdlMXppbmNiamgwczVlOXpxY2wyYXZ5azNkaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ErMGpYXUiuek/giphy.gif" alt="Jellyfish GIF" width="100%" style="border-radius: 15px; max-height: 150px; object-fit: cover;" />
   <h1>Omar - Game Developer</h1>
   <p><i>Drifting through the depths of game design and game production</i></p>
 </div>
@@ -15,16 +15,16 @@
 ### About Me
 I'm a **Game Developer** drifting through the depths of game design, gameplay programming, networking, and creating atmospheric experiences (including VR). My ultimate goal is to launch my own studio.
 
-- Currently creating waves in exciting game projects and expanding my portfolio.
+- Currently developing my own indie game!
 - How to reach me: Dive into my repositories or connect with me via the links above!
 
 ---
 
 ### Featured Game Projects
-- **Jellyfish Horror Game:** A multiplayer speed running horror game with steam works integration for lobbies, proximity voice chat, and more.
+- **Jellyfish Horror Game:** A multiplayer speed-running horror game with Steamworks integration for lobbies, proximity voice chat, and more.
 - **VR Shooter:** A simple VR Shooter.
 - **Blind Leap:** A unique gameplay experience.
-- **Souls-like level design:** Attempted to create a prototype for a souls like level with unique mechanics.
+- **Souls-like level design:** Attempted to create a prototype for a souls-like level with unique mechanics.
 
 ---
 
